@@ -1,0 +1,1 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint@sha256:d35d81ea85babd9c43b70eb0aa225c59b44d5b32624c40d6ae8aeb0a65def8fb
